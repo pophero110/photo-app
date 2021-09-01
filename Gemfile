@@ -5,6 +5,11 @@ ruby "2.7.1"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem "rails", "~> 6.1.4"
+# Authentication and views template
+gem "devise"
+gem "twitter-bootstrap-rails"
+gem "devise-bootstrap-views"
+gem "jquery-rails"
 # Use pg as the database for Active Record
 gem "pg"
 # Use Puma as the app server
