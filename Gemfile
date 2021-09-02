@@ -10,6 +10,9 @@ gem "devise"
 gem "twitter-bootstrap-rails"
 gem "devise-bootstrap-views"
 gem "jquery-rails"
+
+gem "stripe"
+
 # Use pg as the database for Active Record
 gem "pg"
 # Use Puma as the app server
