@@ -11,6 +11,9 @@ gem "twitter-bootstrap-rails"
 gem "devise-bootstrap-views"
 gem "jquery-rails"
 
+gem "carrierwave"
+gem "mini_magick"
+
 gem "stripe"
 
 # Use pg as the database for Active Record
