@@ -1,6 +1,6 @@
 document.addEventListener("turbolinks:load", () => {
   let show_error, stripeResponseHandler, submithandler;
-  console.log("runing");
+
   $(".cc_form").on("submit", submithandler);
 
   submitHandler = function (event) {
